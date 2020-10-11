@@ -1,2 +1,2 @@
-해야할거
-Creat Kit:FPS 업그레이드 없이 그냥 설치하기 (임포트할때 조심)
+Player라는 이름으로 빈객체 생성
+내부에 카메라와 Rigidbody 그리고 PlayerController라는 스크립트 생성해주기
